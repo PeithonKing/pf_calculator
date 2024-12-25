@@ -1,0 +1,16 @@
+#pf-table {
+    margin: 20px;
+    width: 95%;
+}
+        
+.year {
+/* top and bottom margin */
+    margin: 50px 0;
+}
+
+@media (min-width: 992px) { /* Bootstrap lg breakpoint */
+    .custom-container {
+        max-width: 80%; /* Adjust percentage as needed */
+        margin: 0 auto; /* Center the container */
+    }
+}
